@@ -71,13 +71,11 @@ export default {
 </script>
 
 <style lang="css" scoped>
-@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
 
 .header {
   /*#a8e2f8, #083248*/
   background-image: linear-gradient(to bottom, #083248, transparent);
   color: darkcyan;
-  font-family: 'Potta One', cursive;
   font-weight: bold;
   font-size: xxx-large;
 }

@@ -12,7 +12,8 @@
     "core-js": "^3.6.5",
     "element-plus": "^1.0.2-beta.30",
     "vue": "^3.0.0",
-    "vue-axios": "^3.2.3"
+    "vue-axios": "^3.2.3",
+    "vue3-i18n": "^1.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
